@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document By Brainy*/
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, textarea, p, blockquote, th, td { margin:0; padding:0; }
+table { border-collapse:collapse; border-spacing:0; }
+fieldset, iframe, img { border:0; }
+address, caption, cite, code, dfn, em, strong, th, var { font-style:normal; font-weight:normal; }
+ol, ul { list-style:none; }
+caption, th { text-align:left; }
+h1, h2, h3, h4, h5, h6 { font-size:100%; color:#000; }
+body, button, input, select, textarea { font-family:\5b8b\4f53, Arial, Verdana; font-size:12px; }
+/*clear float*/
+.ClearBoth { clear:both; font-size:1px; line-height:1px; height:1px; }
+/* Clear Fix */ 
+.clearfix:after { content:"."; display:block; height:0; clear:both; visibility:hidden; }
+.clearfix { display:inline-block; }
+/* Hide from IE Mac \*/ 
+.clearfix { display:block; }
+/* End hide from IE Mac */ 
+/* end of clearfix */ 
+
+body {background:#ffffff; color:#000;}
+a {text-decoration:none; color:#666666;}
+a:hover{color:#FF6600;}
+/*frame*/
+.frame { width:960px; margin:0 auto;}
